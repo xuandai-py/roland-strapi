@@ -4,7 +4,8 @@
   "info": {
     "singularName": "download",
     "pluralName": "downloads",
-    "displayName": "Download"
+    "displayName": "Download",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,6 +17,9 @@
     },
     "href": {
       "type": "text"
+    },
+    "rank": {
+      "type": "integer"
     }
   }
 }

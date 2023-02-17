@@ -48,6 +48,9 @@
         "setup",
         "normal"
       ]
+    },
+    "rank": {
+      "type": "integer"
     }
   }
 }

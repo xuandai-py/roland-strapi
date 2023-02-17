@@ -4,7 +4,8 @@
   "info": {
     "singularName": "support",
     "pluralName": "supports",
-    "displayName": "Support"
+    "displayName": "Support",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,6 +17,9 @@
     },
     "href": {
       "type": "text"
+    },
+    "rank": {
+      "type": "integer"
     }
   }
 }
