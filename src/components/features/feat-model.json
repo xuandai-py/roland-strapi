@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_features_feat_models",
+  "info": {
+    "displayName": "Feat-model",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "overview": {
+      "type": "text"
+    },
+    "thumbnail": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "FeatChild": {
+      "displayName": "Feat-child",
+      "type": "component",
+      "repeatable": true,
+      "component": "features.feat-child"
+    }
+  }
+}

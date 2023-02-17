@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_spec_model_spec_models",
+  "info": {
+    "displayName": "spec-model",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "data": {
+      "type": "richtext"
+    }
+  }
+}
